@@ -1,6 +1,6 @@
-# Scratch — day 284
+# Notes — day 284
 
-- reviewed python notes
-- cleaned up a checklist
-- next: benchmark
-- seed: 176d3005
+- reviewed algorithms notes
+- drafted a design
+- next: add examples
+- seed: 2413729a
