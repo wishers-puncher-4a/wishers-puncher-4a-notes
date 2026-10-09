@@ -1,6 +1,6 @@
-# Log — day 283
+# Notes — day 283
 
-- reviewed python notes
-- refactored a script
-- next: add examples
-- seed: 4d8951cd
+- reviewed go notes
+- outlined a module
+- next: write tests
+- seed: 9eba6b6c
