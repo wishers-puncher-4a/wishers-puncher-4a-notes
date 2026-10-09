@@ -1,6 +1,6 @@
-# Log — day 282
+# Scratch — day 282
 
-- reviewed algorithms notes
-- drafted a module
+- reviewed sql notes
+- refactored a script
 - next: benchmark
-- seed: b4228b53
+- seed: 9e17be7e
