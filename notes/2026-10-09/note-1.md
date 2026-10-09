@@ -1,6 +1,6 @@
-# Notes — day 281
+# Todo — day 281
 
-- reviewed sql notes
-- refactored a design
-- next: benchmark
-- seed: 6aa17555
+- reviewed rust notes
+- cleaned up a design
+- next: add examples
+- seed: 3c6c1e84
